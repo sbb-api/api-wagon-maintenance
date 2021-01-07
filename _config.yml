@@ -1,13 +1,13 @@
 remote_theme: pmarsceill/just-the-docs
 
-title: API Provider Documentation Template
+title: SBB Cargo API for Measurement Value Acquisition for Wagons
 description: Template for documentation of SBB APIs
-baseurl: "/api-provider-documentation-template"
+baseurl: "/api-wagon-maintenance"
 url: "https://sbb-api.github.io"
 
 permalink: pretty
 search_enabled: true
 heading_anchors: true
 aux_links:
-    " API Provider Documentation Template on GitHub":
-      - "//github.com/sbb-api/api-provider-documentation-template"
+    " SBB Cargo API for Measurement Value Acquisition for Wagons":
+      - "//github.com/sbb-api/api-wagon-maintenance"
