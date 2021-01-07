@@ -18,7 +18,7 @@ Contact: [xg041@sbbcargo.com](mailto:xg041@sbbcargo.com)
 Currently, only measured values of locomotives are transmitted to this API. The locomotives are managed as functional locations in SAP ERP.
 
 ## Sign-up
-In order for you to use the API, sign-up is required. Result of signing up is an application which provides you a token endpoint URL, client ID and secret. With these information you can obtain an OAuth v2 token which is needed for the authorization of the API call.
+In order for you to use the API, sign-up is required. Result of signing up is an application which provides you a token endpoint URL, a client ID and a client secret. With these information you can obtain an OAuth v2 token which is needed for the authorization of the API call.
 
 Sign-up is done here:
 * Production environment: https://developer.sbb.ch/apis/sap_apim_wagonmaintenance/information
